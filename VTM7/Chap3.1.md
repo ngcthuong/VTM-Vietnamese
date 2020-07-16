@@ -4,7 +4,7 @@
 
 As in most preceding standards, VVC has a block-based hybrid coding architecture, combining inter-picture and intra-picture prediction and transform coding with entropy coding. Figure 1 shows a general block diagram of the VTM7 encoder.
 
-​                                 ![imgs/Fig01](C:\Users\Thuong\Documents\GitHub\VTM7-Vn\VTM7\imgs\Fig01.png)
+​                                 ![Block diagram encoder](\imgs\Fig01.png)
 
  Figure 1 – General block diagram of VTM7 encoder [To be updated]
 
